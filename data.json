@@ -1,0 +1,346 @@
+[
+    {
+        "title": "Dunkin' Donuts",
+        "stats": "16,573,613"
+    },
+    {
+        "title": "Budweiser",
+        "stats": "14,846,004"
+    },
+    {
+        "title": "Trident Gum",
+        "stats": "14,705,854"
+    },
+    {
+        "title": "Dr Pepper",
+        "stats": "14,958,312"
+    },
+    {
+        "title": "Mentos",
+        "stats": "13,271,432"
+    },
+    {
+        "title": "Skol",
+        "stats": "12,876,976"
+    },
+    {
+        "title": "Reese's",
+        "stats": "12,153,104"
+    },
+    {
+        "title": "Starbucks Frappuccino",
+        "stats": "12,273,561"
+    },
+    {
+        "title": "Buffalo Wild Wings",
+        "stats": "11,967,182"
+    },
+    {
+        "title": "Nestle",
+        "stats": "11,158,108"
+    },
+    {
+        "title": "Starburst",
+        "stats": "10,904,663"
+    },
+    {
+        "title": "Snickers",
+        "stats": "10,470,160"
+    },
+    {
+        "title": "M&M's USA",
+        "stats": "10,434,917"
+    },
+    {
+        "title": "M&M's Australia",
+        "stats": "10,434,917"
+    },
+    {
+        "title": "Kinder Surprise",
+        "stats": "10,178,256"
+    },
+    {
+        "title": "Hershey's",
+        "stats": "9,887,188"
+    },
+    {
+        "title": "Baskin-Robbins",
+        "stats": "9,608,966"
+    },
+    {
+        "title": "Ben & Jerry's",
+        "stats": "9,059,954"
+    },
+    {
+        "title": "Mountain Dew",
+        "stats": "9,090,637"
+    },
+    {
+        "title": "Stella Artois",
+        "stats": "8,546,131"
+    },
+    {
+        "title": "Bud Light",
+        "stats": "8,064,684"
+    },
+    {
+        "title": "KinderBueno",
+        "stats": "7,686,741"
+    },
+    {
+        "title": "Lipton Iced Tea",
+        "stats": "7,534,115"
+    },
+    {
+        "title": "Twix",
+        "stats": "7,472,232"
+    },
+    {
+        "title": "Kingfisher Beer",
+        "stats": "7,495,474"
+    },
+    {
+        "title": "Gatorade",
+        "stats": "7,594,991"
+    },
+    {
+        "title": "Lay's",
+        "stats": "6,734,078"
+    },
+    {
+        "title": "5 Gum",
+        "stats": "6,165,430"
+    },
+    {
+        "title": "Guinness",
+        "stats": "5,598,238"
+    },
+    {
+        "title": "Krispy Kreme Doughnuts",
+        "stats": "5,641,762"
+    },
+    {
+        "title": "Coca-Cola (Coke)",
+        "stats": "8,222,760"
+    },
+    {
+        "title": "Dippin' Dots",
+        "stats": "4,690,678"
+    },
+    {
+        "title": "Toblerone",
+        "stats": "4,704,542"
+    },
+    {
+        "title": "Slurpee ",
+        "stats": "4,635,670"
+    },
+    {
+        "title": "Pop-Tarts",
+        "stats": "4,452,083"
+    },
+    {
+        "title": "Baileys",
+        "stats": "4,259,048"
+    },
+    {
+        "title": "vitaminwater",
+        "stats": "4,119,211"
+    },
+    {
+        "title": "Sour Patch Kids",
+        "stats": "3,748,344"
+    },
+    {
+        "title": "Cheez-It",
+        "stats": "3,671,370"
+    },
+    {
+        "title": "Snapple",
+        "stats": "3,662,121"
+    },
+    {
+        "title": "Arizona Iced Tea",
+        "stats": "3,174,767"
+    },
+    {
+        "title": "Life Savers Gummies",
+        "stats": "3,053,405"
+    },
+    {
+        "title": "Coors Light",
+        "stats": "3,002,277"
+    },
+    {
+        "title": "Tim Hortons",
+        "stats": "2,943,130"
+    },
+    {
+        "title": "Kool-Aid",
+        "stats": "2,908,863"
+    },
+    {
+        "title": "Stride Gum",
+        "stats": "2,830,549"
+    },
+    {
+        "title": "Cadbury Creme Egg",
+        "stats": "2,507,185"
+    },
+    {
+        "title": "Frito-Lay",
+        "stats": "2,614,461"
+    },
+    {
+        "title": "ICEE",
+        "stats": "2,243,961"
+    },
+    {
+        "title": "Milky Way",
+        "stats": "2,210,447"
+    },
+    {
+        "title": "Little Debbie",
+        "stats": "2,255,152"
+    },
+    {
+        "title": "Cold Stone Creamery",
+        "stats": "2,121,630"
+    },
+    {
+        "title": "Butterfinger",
+        "stats": "2,080,367"
+    },
+    {
+        "title": "Ghirardelli Chocolate",
+        "stats": "1,606,792"
+    },
+    {
+        "title": "Kraft",
+        "stats": "1,820,237"
+    },
+    {
+        "title": "Cheetos",
+        "stats": "1,553,156"
+    },
+    {
+        "title": "Dove Chocolate",
+        "stats": "1,481,248"
+    },
+    {
+        "title": "Lipton Brisk Iced Tea",
+        "stats": "1,436,380"
+    },
+    {
+        "title": "3 Musketeers",
+        "stats": "1,161,713"
+    },
+    {
+        "title": "Heinz Ketchup",
+        "stats": "1,152,205"
+    },
+    {
+        "title": "Florida's Natural",
+        "stats": "1,125,146"
+    },
+    {
+        "title": "Cinnabon",
+        "stats": "1,274,290"
+    },
+    {
+        "title": "Tropicana",
+        "stats": "1,287,871"
+    },
+    {
+        "title": "Bacardi",
+        "stats": "1,115,139"
+    },
+    {
+        "title": "Auntie Anne's Pretzels",
+        "stats": "1,019,079"
+    },
+    {
+        "title": "Jose Cuervo",
+        "stats": "935,287"
+    },
+    {
+        "title": "SunChips",
+        "stats": "981,308"
+    },
+    {
+        "title": "Einstein Bros Bagels",
+        "stats": "767,404"
+    },
+    {
+        "title": "Wheat Thins",
+        "stats": "846,455"
+    },
+    {
+        "title": "Hendrick's Gin",
+        "stats": "619,662"
+    },
+    {
+        "title": "Godiva Chocolatier",
+        "stats": "609,469"
+    },
+    {
+        "title": "Campbell's Soup",
+        "stats": "512,737"
+    },
+    {
+        "title": "popchips",
+        "stats": "441,390"
+    },
+    {
+        "title": "Cap'n Crunch",
+        "stats": "394,055"
+    },
+    {
+        "title": "DonQ Rum",
+        "stats": "294,894"
+    },
+    {
+        "title": "Sierra Nevada",
+        "stats": "479,445"
+    },
+    {
+        "title": "PepsiCo",
+        "stats": "583,487"
+    },
+    {
+        "title": "Mrs. Fields Cookies",
+        "stats": "239,099"
+    },
+    {
+        "title": "Hot Dog on a Stick",
+        "stats": "116,653"
+    },
+    {
+        "title": "Beck's Beer",
+        "stats": "78,578"
+    },
+    {
+        "title": "Wetzel's Pretzels",
+        "stats": "52,612"
+    },
+    {
+        "title": "Speed Energy Drink",
+        "stats": "50,149"
+    },
+    {
+        "title": "Tasti D-Lite",
+        "stats": "27,772"
+    },
+    {
+        "title": "Tanteo Tequila",
+        "stats": "13,029"
+    },
+    {
+        "title": "Tuttimelon",
+        "stats": "5,973"
+    },
+    {
+        "title": "Lipton Tea",
+        "stats": "52,139"
+    }
+]
